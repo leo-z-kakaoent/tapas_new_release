@@ -1,2 +1,7 @@
 *.pickle
 *.pth
+/d3rlpy_logs
+*.d3
+*.csv
+*.parquet
+
