@@ -4,4 +4,4 @@
 *.d3
 *.csv
 *.parquet
-
+/.ipynb_checkpoints
